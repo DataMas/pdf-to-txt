@@ -1,5 +1,4 @@
 import PyPDF2
-import codecs
 
 pdffileobj = open('test.pdf', 'rb')
 
